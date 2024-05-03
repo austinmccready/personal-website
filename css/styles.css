@@ -45,7 +45,7 @@ hr {
 }
 /* In order to pick out a class, a dot is needed to specify which class identifier  */
 .top-container {
-  background-color: #777d7d;
+  background-color: #00ffff;
   position: relative;
   padding-top: 100px;
 }
